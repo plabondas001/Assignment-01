@@ -1,3 +1,10 @@
+1. "modern developer conference website called DevConf 2026"
+Write me a prompt to create a relevant section called `Developer Challenge Arena` under the pricing section `index.html`
+make sure the design is aligned with my previous design.
+
+
+
+
 Create a premium "Developer Challenge Arena" section for a modern developer conference website called DevConf 2026.
 
 Requirements:
