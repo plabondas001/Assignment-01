@@ -340,3 +340,9 @@ li::marker {
     font-size: 32px;
   }
 }
+
+.challenge{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+}
