@@ -341,8 +341,69 @@ li::marker {
   }
 }
 
-.challenge{
-    margin-top: 100px;
-    margin-bottom: 50px;
-    border-radius: 50px;
+.challenge {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 50px;
+}
+
+/* footer */
+.footer {
+  background-color: #0d1b2a;
+  padding: 30px 0px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-icon {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.footer-icon a {
+  font-size: 22px;
+  padding: 3px;
+  border-radius: 100%;
+}
+
+.facebook {
+  color: white;
+  background-color: blue;
+  border: 2px solid blue;
+}
+
+.linkedin {
+  color: rgb(255, 255, 255);
+  background-color: #0b66c3;
+  border: 2px solid #0b66c3;
+}
+
+.github {
+  color: white;
+  background-color: black;
+  border: 2px solid black;
+}
+
+.instagram {
+  color: white;
+  background-color: #fe1f61;
+  border: 2px solid #fe1f61;
+}
+
+hr {
+  margin: 20px 0px;
+  border: none;
+  height: 1px;
+  background-color: rgb(106, 105, 105);
+}
+
+.copyright {
+  color: gray;
+  text-align: center;
+  font-size: 14px;
 }
